@@ -1,0 +1,19 @@
+a = int(input("Enter the number:"))
+if a == 1:
+    print("One")
+elif a == 2:
+    print("Two")
+elif a == 3:
+    print("Three")
+else:
+    print("number is not equal to One, Two or Three")
+
+
+Output:
+
+Enter the number:3
+Three
+
+
+
+
